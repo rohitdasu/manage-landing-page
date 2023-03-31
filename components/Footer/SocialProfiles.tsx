@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export const SocialProfiles: FC<SocialProps> = ({ socials }) => {
   return (
-    <div className="flex flex-row items-center justify-center gap-2">
+    <div className="flex flex-row items-start lg:items-center justify-between w-full lg:justify-start gap-2">
       {socials?.map((social) => {
         return (
           <Link href={"#"} key={social.id}>
