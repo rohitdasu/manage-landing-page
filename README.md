@@ -4,7 +4,8 @@
 <img width="1439" alt="Screenshot 2023-04-02 at 3 38 26 PM" src="https://user-images.githubusercontent.com/48400770/229346516-84af0f2a-0cb1-488b-8882-32a069e55e5c.png">
 
 
-## A landing page for a CRM software. Divided into different sections: 
+## A landing page for a CRM software. 
+Divided into different sections: 
 - Top Navbar section
 - Hero section
 - Benefits/Features section
